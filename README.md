@@ -1,6 +1,6 @@
-# Taiwan Pedestrian Safety Analysis (2020-2022)
+# Taipei Pedestrian Safety Analysis (2020-2022)
 
-This project analyzes pedestrian safety data in Taiwan from 2020 to 2022, focusing on identifying key trends and risk factors. The goal is to provide insights for policymakers and urban planners to improve pedestrian safety.
+This project analyzes pedestrian safety data in Taipei from 2020 to 2022, focusing on identifying key trends and risk factors. The goal is to provide insights for policymakers and urban planners to improve pedestrian safety.
 
 ## Key Findings
 - Pedestrian accidents peaked during [specific months or areas].
