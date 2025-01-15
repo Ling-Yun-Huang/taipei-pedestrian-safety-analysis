@@ -23,3 +23,8 @@ Key components of the project include:
 - Pedestrian accidents were concentrated in [specific areas or months].
 - [Percentage]% of accidents involved [key risk factors, e.g., distracted driving].
 - Recommendations include [e.g., improving infrastructure, enforcing traffic laws].
+
+---
+
+## Data Attribution
+The A1 and A2 traffic accident data used in this project is sourced from the Taipei City Government and is provided under the **Open Government Data License, Version 1.0**. For more information, visit the [data source](https://data.gov.tw/en/datasets/130110).
