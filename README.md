@@ -1,24 +1,25 @@
 # Taipei Pedestrian Safety Analysis (2020-2022)
 
-This project analyzes pedestrian safety data in Taipei from 2020 to 2022, focusing on identifying key trends and risk factors. The goal is to provide insights for policymakers and urban planners to improve pedestrian safety.
+A comprehensive analysis of pedestrian safety data in Taipei, submitted as part of the Principles of Data Science coursework. This project demonstrates data analysis, visualization, and insights generation, highlighting technical abilities and problem-solving skills in data science.
+
+This project was completed as part of the Principles of Data Science course in the Master’s program at City, University of London (2024) and received a distinction.
+
+Key components of the project include:
+- Exploratory Data Analysis (EDA)
+- Data preprocessing and cleaning
+- Statistical analysis and visualization
+- Storytelling through data insights  
+
+---
+
+### Goals
+- To identify patterns and high-risk factors in pedestrian accidents.
+- To demonstrate proficiency in data manipulation, analysis, and presentation.
+- To provide actionable recommendations for enhancing pedestrian safety.
+
+---
 
 ## Key Findings
-- Pedestrian accidents peaked during [specific months or areas].
-- [Percentage]% of accidents involved [specific risk factors, e.g., speeding, distracted driving].
-- Proposed safety improvements: [e.g., better crosswalk design, stricter enforcement].
-
-## Tools and Libraries
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Data Cleaning and Transformation
-
-## Repository Structure
-- `data/`: Raw and processed data files.
-- `notebooks/`: Jupyter Notebook detailing the analysis process.
-- `scripts/`: Python scripts for data cleaning and visualization.
-- `reports/`: Final reports and visualization outputs.
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/taiwan-pedestrian-safety-analysis.git
+- Pedestrian accidents were concentrated in [specific areas or months].
+- [Percentage]% of accidents involved [key risk factors, e.g., distracted driving].
+- Recommendations include [e.g., improving infrastructure, enforcing traffic laws].
