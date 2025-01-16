@@ -29,3 +29,11 @@ The data includes the following key fields:
 #### Environmental Factors:
 - Weather conditions
 - Road conditions during the accident
+
+---
+
+## Attribution
+When using this data, please credit the source:
+
+> Data provided by the Taiwan Government Open Data Platform (https://data.gov.tw/en/datasets/130110) under the Open Government Data License, version 1.0.
+
