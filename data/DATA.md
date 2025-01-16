@@ -37,3 +37,5 @@ When using this data, please credit the source:
 
 > Data provided by the Taiwan Government Open Data Platform (https://data.gov.tw/en/datasets/130110) under the Open Government Data License, version 1.0.
 
+For more details, visit the official license page: [Open Government Data License, version 1.0.](https://data.gov.tw/en/licenses)
+
