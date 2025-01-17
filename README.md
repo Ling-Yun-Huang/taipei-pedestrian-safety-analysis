@@ -28,3 +28,6 @@ Key components of the project include:
 
 ## Data Attribution
 The A1 and A2 traffic accident data used in this project is sourced from the Taipei City Government and is provided under the **Open Government Data License, Version 1.0**. For more information, visit the [data source](https://data.gov.tw/en/datasets/130110).
+
+## Licensing
+This project's code is licensed under the MIT License. Please refer to the license file for details on usage and distribution.
