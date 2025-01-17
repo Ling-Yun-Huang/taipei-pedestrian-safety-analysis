@@ -3,7 +3,7 @@
 A comprehensive analysis of pedestrian safety data in Taipei, submitted as part of the Principles of Data Science coursework. This project demonstrates data analysis, visualization, and insights generation, highlighting technical abilities and problem-solving skills in data science.
 
 ## Overview
-This project was completed as part of the Principles of Data Science course in the Master’s program at City, University of London (2024), where it received a distinction.
+This project was completed as part of the Principles of Data Science course in the Master’s program at City, University of London (2024), where it received a ***Distinction***.
 
 ## Key Components
 - Exploratory Data Analysis (EDA): Examining patterns and trends in pedestrian accident data.
