@@ -1,6 +1,6 @@
 # Taipei Pedestrian Safety Analysis (2020-2022)
 
-A comprehensive analysis of pedestrian safety data in Taipei, completed as part of the **Principles of Data Science** coursework. This project demonstrates strong data analysis, statistical modeling, and visualization skills, with actionable insights aimed at improving pedestrian safety.
+A comprehensive analysis of pedestrian safety data in Taipei, completed as part of the **Principles of Data Science** coursework. This project demonstrates strong data analysis, statistical modelling, and visualisation skills, with actionable insights aimed at improving pedestrian safety.
 
 ## Project Overview
 This project was part of the **Master’s in Data Science** at **City, University of London (2024)**, where it was awarded a **Distinction**.
@@ -8,12 +8,12 @@ This project was part of the **Master’s in Data Science** at **City, Universit
 ## Key Components
 - **Exploratory Data Analysis (EDA)**: Identifying key patterns and trends in pedestrian accident data.
 - **Data Preprocessing & Cleaning**: Ensuring data integrity for reliable and accurate analysis.
-- **Statistical Analysis & Visualization**: Applying statistical models and creating impactful visualizations.
+- **Statistical Analysis & Visualisation**: Applying statistical models and creating impactful visualisations.
 - **Storytelling through Data**: Communicating key findings effectively to inform decision-making.
 
 ## Goals
 - **Identify High-Risk Factors** in pedestrian accidents.
-- Demonstrate proficiency in **data manipulation, statistical analysis**, and **data visualization**.
+- Demonstrate proficiency in **data manipulation, statistical analysis**, and **data visualisation**.
 - Provide **actionable recommendations** for improving pedestrian safety in urban environments.
 
 ## Key Findings
